@@ -1,13 +1,1 @@
-# ✨Pow-Carriera✨, currently a student in the Philippines
-🕵️‍♂️ **Bug squisher** by day 💻️
-🏁 **Racing driver** at night 🏎️
----
-### Skills
----
-1. 🟩 Vue Front End Web Developer (Someday) 🟩
-2. Content Management System Specialist (Someday)
-3. NodeJS Newbie
-4. boutta add more, please hang tight...
----
-🤷‍♂️ Still confused what `this` means in Javascript \
-🌐 Wants to be a ~~Network Engineer~~
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/smGCEo5zsAXtK4bqAT" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/working-programing-programar-smGCEo5zsAXtK4bqAT">via GIPHY</a></p>
