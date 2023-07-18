@@ -6,8 +6,8 @@
     <img src="https://komarev.com/ghpvc/?username=paulo-pertierra&style=flat-square&color=blue" alt="" />
   </div>
   <div id="badges" align="center" >
-    <a href="https://www.linkedin.com/in/paulo-pertierra-a5b4591b0/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
-      " alt=""></a>
+    <a href="https://www.linkedin.com/in/paulo-pertierra-a5b4591b0/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt=""></a>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
       alt="Youtube Badge" />
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
