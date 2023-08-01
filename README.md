@@ -17,3 +17,33 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
       alt="Twitter Badge" />
   </div>
+
+---
+
+### ~ whoami
+
+I'm Paulo, a versatile web developer hailing from the Philippines specializing on the front-end.
+
+### My Skills
+
+Vue.js is my favorite framework, TailwindCSS is my favorite CSS library, and GNU Linux is my favorite OS. 
+
+| skill | years of experience | my confidence 
+| --- | --- | --- |
+| GNU Linux | 3 years | ⭐⭐⭐⭐⭐
+| HTML, JS, & CSS | 3 years | ⭐⭐⭐⭐⭐
+| TailwindCSS | <1 year | ⭐⭐⭐⭐⭐
+| Vue.js | 1 year | ⭐⭐⭐⭐⭐
+| Git & GitHub | 1.5 years | ⭐⭐⭐⭐⭐
+| MySQL | 3 years | ⭐⭐⭐⭐
+| PostgreSQL | <1 year | ⭐⭐⭐⭐
+| Typescript | <1 year | ⭐⭐⭐⭐
+| Express.js | <1 year | ⭐⭐⭐
+| Docker | 1 year | ⭐⭐⭐
+| Mocha & Chai | <1 year | ⭐⭐⭐
+| CodeIgniter 4 | <1 year | ⭐⭐
+| GitHub Actions | <1 year | ⭐
+
+All these tools, because I want to contribute in meaningful and challenging projects all over the world.
+
+### I use Arch, btw.
